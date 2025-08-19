@@ -92046,7 +92046,7 @@ return A.h7(A.aC(A.b([B.SJ,k,B.bI,j,B.bI,r,B.bI,q,B.bI,p,B.bI,n.e?n.atk(l):B.af,
 a_H(a){var s=A.b(["Add Institution","Insitution Details","Drives"],t.s),r=A.b([B.I8,B.Ix,B.Im],t.G1),q=this.c
 q.toString
 return A.Ag(new A.att(this,A.jg(q,!0,t.OS).a,a,r,s),3,B.lc,B.Z,!0)},
-akh(a){var s=A.b(["Geberal Health","Dental","Visual","ENT","Systems"],t.s),r=A.b([B.Ih,B.Iq,B.kE,B.kE,B.kE],t.G1),q=this.c
+akh(a){var s=A.b(["General Health","Dental","Visual","ENT","Systems"],t.s),r=A.b([B.Ih,B.Iq,B.kE,B.kE,B.kE],t.G1),q=this.c
 q.toString
 return A.Ag(new A.atl(this,A.jg(q,!0,t.OS).a,a,r,s),5,B.lc,B.Z,!0)},
 atk(a){var s=A.b(["QR Assignment"],t.s),r=A.b([B.I9],t.G1),q=this.c
