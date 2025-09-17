@@ -98971,7 +98971,7 @@ a2=t.N
 a3=A.aE(["institutionType",s,"institutionTotal",r,"locationType",q,"affiliationBoard",p,"registrationId",o,"principalName",n,"adminContact",m,"adminEmail",l,"address",k,"city",j,"pincode",i,"totalStudents",h,"boys",g,"girls",f,"other",e,"programsOffered",d,"gradesCovered",c,"lastHealthCampDate",b,"previousHealthNotes",a,"nextFollowUpDate",a0,"followUpStatus",a1],a2,a2)
 A.aGF().$1("Institution form data: "+a3.l(0))
 A.a8x(null)
-new A.kL(A.ql(null),"http://localhost:3000").B8(a6.a.a,a3,A.a3U("TOKEN")).lg(new A.aww(a5,this.b)).lJ(new A.awx(a5))},
+new A.kL(A.ql(null),"https://vonishaapi.edastra.in").B8(a6.a.a,a3,A.a3U("TOKEN")).lg(new A.aww(a5,this.b)).lJ(new A.awx(a5))},
 $S:0}
 A.awv.prototype={
 $0(){return this.a.fy=!0},
@@ -99062,7 +99062,7 @@ A.qW.prototype={
 S(){return new A.XF([])}}
 A.XF.prototype={
 a8(){this.an()
-new A.kL(A.ql(null),"http://localhost:3000").yx(A.a3U("TOKEN")).lg(new A.awn(this))},
+new A.kL(A.ql(null),"https://vonishaapi.edastra.in").yx(A.a3U("TOKEN")).lg(new A.awn(this))},
 F(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f="Institution Details",e=t.w,d=A.a_(a,g,e).w.a.a,c=A.a_(a,g,e).w.a.b
 e=A.dZ(g,g,g,g,g,g,g,g,g)
 s=A.E(A.fi("assets/background_lt.jpeg",B.c4,g),c,d)
@@ -99230,7 +99230,7 @@ A.a_o.prototype={
 a8(){var s=this
 s.an()
 A.jH(s.a.c)
-new A.kL(A.ql(null),"http://localhost:3000").ym(s.a.c).lg(new A.azd(s))},
+new A.kL(A.ql(null),"https://vonishaapi.edastra.in").ym(s.a.c).lg(new A.azd(s))},
 pL(){this.K(new A.azm(this))},
 nP(){this.K(new A.aza(this))},
 F(a){var s,r,q,p,o,n,m=null,l=t.w,k=A.a_(a,m,l).w.a.b
@@ -99317,7 +99317,7 @@ p.nP()
 s=p.Q>=8&&p.x===p.y?2:3
 break
 case 2:p.K(new A.azj(p))
-p=new A.kL(A.ql(null),"http://localhost:3000").y_(p.x,p.a.c).lg(new A.azk(p))
+p=new A.kL(A.ql(null),"https://vonishaapi.edastra.in").y_(p.x,p.a.c).lg(new A.azk(p))
 s=4
 return A.Y(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -99359,7 +99359,7 @@ S(){var s=$.af()
 return new A.a_p(new A.bb(B.y,s),new A.bb(B.y,s))}}
 A.a_p.prototype={
 a8(){this.an()
-new A.kL(A.ql(null),"http://localhost:3000").ym(this.a.c).lg(new A.azx(this))},
+new A.kL(A.ql(null),"https://vonishaapi.edastra.in").ym(this.a.c).lg(new A.azx(this))},
 pL(){this.K(new A.azG(this))},
 nP(){this.K(new A.azu(this))},
 F(a){var s,r,q,p,o=null,n=t.w,m=A.a_(a,o,n).w.a.b,l=A.a_(a,o,n).w.a.a,k=A.fm(a,!0,t.eC).a
@@ -99448,7 +99448,7 @@ p.nP()
 s=p.Q>=8&&p.x===p.y?2:3
 break
 case 2:p.K(new A.azD(p))
-p=new A.kL(A.ql(null),"http://localhost:3000").y_(p.x,p.a.c).lg(new A.azE(p))
+p=new A.kL(A.ql(null),"https://vonishaapi.edastra.in").y_(p.x,p.a.c).lg(new A.azE(p))
 s=4
 return A.Y(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -99559,7 +99559,7 @@ s=p.Q&&p.y>=8?2:3
 break
 case 2:p.K(new A.aAN(p))
 if(p.as)A.a8x("loading...")
-p=new A.kL(A.ql(null),"http://localhost:3000").xn(p.r,p.w).lg(new A.aAO(p,q.b))
+p=new A.kL(A.ql(null),"https://vonishaapi.edastra.in").xn(p.r,p.w).lg(new A.aAO(p,q.b))
 s=4
 return A.Y(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
@@ -99676,7 +99676,7 @@ s=p.Q&&p.y>=8?2:3
 break
 case 2:p.K(new A.aAZ(p))
 if(p.as)A.a8x("loading...")
-p=new A.kL(A.ql(null),"http://localhost:3000").xn(p.r,p.w).lg(new A.aB_(p,q.b))
+p=new A.kL(A.ql(null),"https://vonishaapi.edastra.in").xn(p.r,p.w).lg(new A.aB_(p,q.b))
 s=4
 return A.Y(p,$async$$0)
 case 4:case 3:return A.Q(null,r)}})
